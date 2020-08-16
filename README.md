@@ -1,4 +1,2 @@
-# demo
-test practice
-
-today i am going to make some changes and retry it again.
+#Practice session on 16th August.
+i have some doubt related to pull and update the local with new code.
